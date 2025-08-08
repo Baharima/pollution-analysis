@@ -1,0 +1,29 @@
+# 🏭 Pollution Analysis Project
+
+This project is focused on analyzing air pollution data and its relationship with public health.
+
+## 📊 Project Features
+
+- Cleaning and preprocessing pollution data
+- Handling missing values and outliers
+- Converting dates to datetime format
+- Monthly analysis of PM2.5 levels
+- Correlation analysis with health indicators (number of patients, etc.)
+- Data visualizations using seaborn and matplotlib:
+  - 📈 Line plot: Pollution trends over time
+  - 📉 Scatter plot: Pollution vs. number of patients
+  - 📊 Histogram: Monthly pollution levels
+
+
+## 🛠️ Technologies Used
+
+- Python (pandas, matplotlib, seaborn)
+- Jupyter Notebook
+- Git & GitHub
+
+## 📌 Author
+
+**Bahar Imanzade**  
+Python & Data Science Learner 💻  
+
+
